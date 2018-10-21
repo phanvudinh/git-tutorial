@@ -2,3 +2,4 @@ den con khi cung hieu dc len GIT
 them giai thich ve lenh add
 them commit tu tutorial
 commit tu tutorial2
+commit tu tutorial2 abc
